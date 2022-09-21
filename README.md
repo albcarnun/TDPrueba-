@@ -1,2 +1,3 @@
-# TDPrueba-
-Mi primer proyecto en GitHub con Rstudio y R
+# Introduccion
+Mi primer repositorio en GitHub para trabajar en Rstudio y R
+d
