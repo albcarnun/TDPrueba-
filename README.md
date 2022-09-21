@@ -1,3 +1,7 @@
 # Introduccion
 Mi primer repositorio en GitHub para trabajar en Rstudio y R
-d
+
+## TODO
+Cosas por hacer: 
+ - Aprender que es un Fork.
+ 
